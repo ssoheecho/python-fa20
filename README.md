@@ -12,6 +12,10 @@ Class Syllabus: [here](https://docs.google.com/document/d/1-FSwfnRlbfZqVBROeNoW2
 
 Read this [Notion page](https://www.notion.so/anaconda-jupter-notebook-9315faf27f41489aa06806a2851c04e2) on installing Anaconda and Jupyter Notebook.
 
+-----------------------------
+
+### Weekly updates:
+
 - [x] [Week 1](https://github.com/ssoheecho/python-fa20/tree/master/week_01)
 - [] Week 2
 - [] Week 3
