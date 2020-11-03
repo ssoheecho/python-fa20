@@ -5,6 +5,8 @@
 Sign up for Github and create personal repository for class <br>
 Download & Install Anaconda and Jupyter Notebook. Instructions [here](https://www.notion.so/anaconda-jupter-notebook-9315faf27f41489aa06806a2851c04e2)
 
+---
+
 ### Intro to Python
 Topics:
 - Hello World!

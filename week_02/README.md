@@ -1,8 +1,10 @@
-## Week II: Intro to Operation & Function
+## WEEK 02
+
+[lecture slides](https://docs.google.com/presentation/d/1miYdu2VDj5Zyc-bcr6yfXfyxyWhRy-Bfw97qwP9KUg0/edit#slide=id.g78443daa37_0_69)
 
 ---
-## Introducing Python and Jupyter Notebooks
-#### Topics
+
+### Topics
 * Basic Operators (+, - , *, / , //, %)
 * Type conversion and casting
 * Booleans and Conditionals
@@ -10,8 +12,5 @@
 * If statement
 * For loop / while loop
 
----
-
-#### Link to slides
-https://docs.google.com/presentation/d/19o3IuSdeoMn3F5TE92_W6cwPR1bvGuOlVFvXe_ni_vo/edit#slide=id.g7784000c55_0_57 
-
+### Assignment
+Go through the assignment notebook
