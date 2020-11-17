@@ -17,9 +17,9 @@ Read this [Notion page](https://www.notion.so/anaconda-jupter-notebook-9315faf27
 ### Weekly updates:
 
 - [x] [Week 1](https://github.com/ssoheecho/python-fa20/tree/master/week_01)
-- [] Week 2
-- [] Week 3
-- [] Week 4
+- [x] [Week 2](https://github.com/ssoheecho/python-fa20/tree/master/week_02)
+- [x] [Week 3](https://github.com/ssoheecho/python-fa20/tree/master/week_03)
+- [x] [Week 4](https://github.com/ssoheecho/python-fa20/tree/master/week_04)
 - [] Week 5
 - [] Week 6
 - [] Week 7
